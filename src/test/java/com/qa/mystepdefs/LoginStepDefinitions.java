@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import pages.LoginPage;
 
-public class LoginStepDefinitions {
+public class  LoginStepDefinitions {
 
     private WebDriver driver;
     private LoginPage loginPage;
